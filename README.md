@@ -1,0 +1,1 @@
+This repository entails codes and documents that aid in the completion of this research. Quantifying the extreme wind speed on wind turbine performance as well as assessing wind resource distribution in South Africa 
